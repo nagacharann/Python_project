@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Sales Dashboard",
+  "description": "An intelligent sales data management system built with React and powered by Gemini. It features role-based access, dynamic data filtering, user management, and AI-driven sales analysis.",
+  "requestFramePermissions": []
+}
